@@ -1,6 +1,6 @@
 # DLMDSPWP01 – Regression / Ideal Function Mapping Project
 
-This project implements the IU DLMDSPWP01 assignment requirements:
+This project implements the DLMDSPWP01 assignment requirements:
 - Load training/ideal/test CSVs
 - Persist them into SQLite using SQLAlchemy
 - Select 4 best-fit ideal functions by least squares (SSE)
