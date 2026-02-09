@@ -1,4 +1,4 @@
-# DLMDSPWP01 – Regression / Ideal Function Mapping Project
+# DLMDSPWP01 – A Python-Based Approach to Error Metrics and Deviation Analysis in Regression Models
 
 This project implements the DLMDSPWP01 assignment requirements:
 - Load training/ideal/test CSVs
